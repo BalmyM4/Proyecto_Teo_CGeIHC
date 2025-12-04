@@ -1,0 +1,602 @@
+{
+  "assetCategories": {
+    "surface": {
+      "plaster": {
+        "fresh": {}
+      }
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "plaster",
+    "fresh"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.980579,
+  "displacementCalibrationAccuracy": 0.993406,
+  "displacementScale": 4.023952,
+  "environment": {
+    "biome": "undefined",
+    "region": "Europe"
+  },
+  "highest_available_res": 8192,
+  "id": "wfnhfaq",
+  "json": {
+    "contentLength": 12592,
+    "uri": "wfnhfaq.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#FDFDFD",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 91677991,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 244,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "wfnhfaq_8K_AO.exr"
+    },
+    {
+      "averageColor": "#FDFDFD",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 21653754,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 244,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "wfnhfaq_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#C7C7C8",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 159226946,
+      "maxIntensity": 206,
+      "mimeType": "image/x-exr",
+      "minIntensity": 195,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "wfnhfaq_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#C7C7C8",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 22946402,
+      "maxIntensity": 206,
+      "mimeType": "image/jpeg",
+      "minIntensity": 195,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "wfnhfaq_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 198847145,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "wfnhfaq_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 21965078,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "wfnhfaq_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 212698261,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "wfnhfaq_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 47630790,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "wfnhfaq_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 248645896,
+      "maxIntensity": 130,
+      "mimeType": "image/x-exr",
+      "minIntensity": 127,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "wfnhfaq_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#818181",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 2499788,
+      "maxIntensity": 130,
+      "mimeType": "image/jpeg",
+      "minIntensity": 127,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "wfnhfaq_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#1E1E1E",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 102099275,
+      "maxIntensity": 31,
+      "mimeType": "image/x-exr",
+      "minIntensity": 25,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "wfnhfaq_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#1E1E1E",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 13803183,
+      "maxIntensity": 31,
+      "mimeType": "image/jpeg",
+      "minIntensity": 25,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "wfnhfaq_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8181FF",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 185896574,
+      "maxIntensity": 152,
+      "mimeType": "image/x-exr",
+      "minIntensity": 133,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "wfnhfaq_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8181FF",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 72589540,
+      "maxIntensity": 152,
+      "mimeType": "image/jpeg",
+      "minIntensity": 133,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "wfnhfaq_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#E1E1E1",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 100933055,
+      "maxIntensity": 230,
+      "mimeType": "image/x-exr",
+      "minIntensity": 224,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "wfnhfaq_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#E1E1E1",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 11875098,
+      "maxIntensity": 230,
+      "mimeType": "image/jpeg",
+      "minIntensity": 224,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "wfnhfaq_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 239313223,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "wfnhfaq_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 29365826,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "wfnhfaq_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "2x2 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.002 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "4096 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Stucco Facade",
+  "pack": {
+    "_id": "modern-stucco",
+    "name": "Modern Stucco"
+  },
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 153103,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "wfnhfaq_Grid_360.png"
+      },
+      {
+        "contentLength": 206424,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "wfnhfaq_Grid_420.png"
+      },
+      {
+        "contentLength": 612283,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "wfnhfaq_Grid_720.png"
+      },
+      {
+        "contentLength": 841266,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "wfnhfaq_Grid_840.png"
+      },
+      {
+        "contentLength": 2313003,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "wfnhfaq_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 4372388,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "wfnhfaq_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 9702032,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "wfnhfaq_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 18985788,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "wfnhfaq_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 2160685,
+        "resolution": "1440x768",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "wfnhfaq_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 3979470,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "wfnhfaq_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 8455323,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "wfnhfaq_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 15993402,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "wfnhfaq_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 2150444,
+        "resolution": "1440x768",
+        "tags": [
+          "preview"
+        ],
+        "uri": "wfnhfaq_Popup_1440.png"
+      },
+      {
+        "contentLength": 4024360,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "wfnhfaq_Popup_1920.png"
+      },
+      {
+        "contentLength": 8864660,
+        "resolution": "2880x1536",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "wfnhfaq_Popup_2880.png"
+      },
+      {
+        "contentLength": 17320034,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "wfnhfaq_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-16 20:08:38",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "asset_type": "surface",
+    "color": [
+      "White"
+    ],
+    "contains": [
+      "plaster",
+      "stucco",
+      "paint"
+    ],
+    "country": "Sweden",
+    "descriptive": [
+      "Fresh",
+      "Painted",
+      "New",
+      "Clean",
+      "fine"
+    ],
+    "environment": [
+      "urban"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [
+      "exterior",
+      "interior"
+    ],
+    "locations": {
+      "Europe": {
+        "Sweden": {}
+      }
+    },
+    "maxSize": 2,
+    "minSize": 2,
+    "name": "Stucco Facade",
+    "orientation": [
+      "wall"
+    ],
+    "region": "Europe",
+    "state": [
+      "new"
+    ],
+    "subject_matter": "manmade",
+    "theme": [
+      "urban",
+      "archviz",
+      "buildings",
+      "walls",
+      "construction",
+      "interiors",
+      "sub-urban",
+      "houses",
+      "homes",
+      "offices",
+      "STO"
+    ]
+  },
+  "tags": [
+    "white",
+    "wall",
+    "sto",
+    "interior",
+    "urban",
+    "plaster",
+    "grains",
+    "fresh",
+    "painted",
+    "new",
+    "rough",
+    "clean"
+  ],
+  "texelDensity": 4096,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 213310062,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/wfnhfaq_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 66036180,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/wfnhfaq_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 16536135,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/wfnhfaq_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 1181893,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/wfnhfaq_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
